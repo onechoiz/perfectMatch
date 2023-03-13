@@ -1,0 +1,12 @@
+@import '../../../../../public/style/var.scss';
+
+.inputs{
+   @include inp;
+   text-transform: capitalize;
+   outline:  none;
+}
+
+.inputs:focus{
+   border: none;
+  outline:  4px ridge pink;
+}

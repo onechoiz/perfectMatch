@@ -1,0 +1,30 @@
+@import '../../../../../public/style/var.scss';
+.container {
+  width: 50%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.msg {
+  font-size: 30px;
+  color: $black;
+}
+
+.names {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  font-size: 30px;
+  gap: 20px;
+  text-transform: capitalize;
+  color: $black;
+}
+
+@media (max-width: 900px) {
+  .container {
+    width: 100% !important;
+  }
+}
