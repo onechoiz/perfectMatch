@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/peerfectMatch/static/css/main.850e9e95.css",
+    "main.js": "/github.io/peerfectMatch/static/js/main.885b83fe.js",
+    "index.html": "/github.io/peerfectMatch/index.html",
+    "main.850e9e95.css.map": "/github.io/peerfectMatch/static/css/main.850e9e95.css.map",
+    "main.885b83fe.js.map": "/github.io/peerfectMatch/static/js/main.885b83fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850e9e95.css",
+    "static/js/main.885b83fe.js"
+  ]
+}
